@@ -1,0 +1,85 @@
+[
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+
+    {
+      id: 1,
+      background: Model3,
+      title: "Model3",
+      description: (
+        <>
+          Order Online for{" "}
+          <span className="underline underline-offset-[5px]">
+            Touchless Delivery
+          </span>
+        </>
+      ),
+    },
+  ]
